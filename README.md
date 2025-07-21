@@ -43,7 +43,7 @@ This involves exploring the data to answer these questions:
 - Product with the highest average rating (Top: Home & Kitchen- 4.1)
 - Product with the highest discount (Top: Computer&Accessories)
 ### Dashboard Visuals
-![Amazon Product Dashboard](https://github.com/user-attachments/assets/2d25eea0-1070-4105-80f7-740e62c3a828)
+![Amazon Product Dashboard](
   
 ### Key Observation
 From the analysis, my key observations are:
